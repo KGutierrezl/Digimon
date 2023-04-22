@@ -1,0 +1,25 @@
+tr:hover{
+    background-color: #F9D3CB;
+}
+
+body{
+    background-color: #E4F6FF;
+}
+footer{
+    background-color: #88BAF5;
+    margin: 0px;
+    padding: 1px;
+}
+
+footer p{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+hr:not([size]){
+    margin-top: -10px;
+    height: 10px;
+    color: black;
+}
